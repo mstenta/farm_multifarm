@@ -1,0 +1,5 @@
+name: Multifarm
+description: Manage multiple farms in farmOS.
+type: module
+package: farmOS Contrib
+core_version_requirement: ^9
